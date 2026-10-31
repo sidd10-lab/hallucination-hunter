@@ -1,0 +1,17 @@
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+ENV/
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log
+
+.cache/
+.pytest_cache/
